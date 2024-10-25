@@ -1,0 +1,578 @@
+Date,Time,User,Activity Description,Reason for change,Anomaly
+2024-08-27,08:00:00,user123,User logged into the system,Not Available,0
+2024-08-27,08:10:00,user123,Loaded recipe for batch #001,Not Available,0
+2024-08-27,08:16:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-08-27,08:26:00,user123,Verified calibration of scales,Not Available,0
+2024-08-27,08:31:00,user123,Started coating process for batch #001,Not Available,0
+2024-08-27,08:39:00,user123,Adjusted spray rate from 13.3 to 11.5,Not Available,0
+2024-08-27,08:45:00,user123,Adjusted inlet air temperature from 154.9 to 153.5,Not Available,0
+2024-08-27,08:55:00,user123,Adjusted drum speed from 13.2 to 13.4,Not Available,0
+2024-08-27,09:00:00,user123,Adjusted atomization air pressure from 2.0 to 3.2,Not Available,0
+2024-08-27,09:09:00,user123,Adjusted spray rate from 12.6 to 14.5,Not Available,0
+2024-08-27,09:18:00,user123,Adjusted exhaust air temperature from 45.0 to 45.8,Not Available,0
+2024-08-27,09:26:00,user123,Stopped coating process for batch #001,Not Available,0
+2024-08-27,09:31:00,user123,Logged out of the system,Not Available,0
+2024-08-28,08:00:00,user789,User logged into the system,Not Available,0
+2024-08-28,08:06:00,user789,Loaded recipe for batch #002,Not Available,0
+2024-08-28,08:16:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-08-28,08:25:00,user789,Verified calibration of scales,Not Available,0
+2024-08-28,08:33:00,user789,Started coating process for batch #002,Not Available,0
+2024-08-28,08:38:00,user789,Adjusted inlet air temperature from 146.0 to 144.4,Not Available,0
+2024-08-28,08:48:00,user789,Adjusted inlet air temperature from 154.8 to 154.2,Not Available,0
+2024-08-28,08:53:00,user789,Adjusted atomization air pressure from 1.9 to -0.0,Not Available,0
+2024-08-28,09:00:00,user789,Adjusted atomization air pressure from 1.9 to 0.8,Not Available,0
+2024-08-28,09:09:00,user789,Stopped coating process for batch #002,Not Available,0
+2024-08-28,09:14:00,user789,Logged out of the system,Not Available,0
+2024-08-29,08:00:00,user456,User logged into the system,Not Available,0
+2024-08-29,08:10:00,user456,Loaded recipe for batch #003,Not Available,0
+2024-08-29,08:19:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-08-29,08:26:00,user456,Verified calibration of scales,Not Available,0
+2024-08-29,08:35:00,user456,Started coating process for batch #003,Not Available,0
+2024-08-29,08:44:00,user456,Adjusted drum speed from 13.0 to 12.0,Not Available,0
+2024-08-29,08:52:00,user456,Adjusted inlet air temperature from 151.8 to 150.0,Not Available,0
+2024-08-29,09:02:00,user456,Adjusted spray rate from 14.8 to 12.9,Not Available,0
+2024-08-29,09:08:00,user456,Adjusted atomization air pressure from 2.1 to 2.9,Not Available,0
+2024-08-29,09:18:00,user456,Adjusted inlet air temperature from 151.6 to 150.8,Not Available,0
+2024-08-29,09:28:00,user456,Adjusted inlet air temperature from 151.5 to 152.3,Not Available,0
+2024-08-29,09:35:00,user456,Stopped coating process for batch #003,Not Available,0
+2024-08-29,09:40:00,user456,Logged out of the system,Not Available,0
+2024-08-30,08:00:00,user456,User logged into the system,Not Available,0
+2024-08-30,08:10:00,user456,Loaded recipe for batch #004,Not Available,0
+2024-08-30,08:16:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-08-30,08:26:00,user456,Verified calibration of scales,Not Available,0
+2024-08-30,08:33:00,user456,Started coating process for batch #004,Not Available,0
+2024-08-30,08:39:00,user456,Adjusted drum speed from 13.1 to 11.6,Not Available,0
+2024-08-30,08:47:00,user456,Adjusted atomization air pressure from 1.9 to 3.0,Not Available,0
+2024-08-30,08:57:00,user456,Adjusted inlet air temperature from 153.3 to 151.8,Not Available,0
+2024-08-30,09:03:00,user456,Adjusted spray rate from 8.9 to 10.6,Not Available,0
+2024-08-30,09:10:00,user456,Adjusted drum speed from 14.5 to 13.3,Not Available,0
+2024-08-30,09:17:00,user456,Adjusted atomization air pressure from 2.0 to 2.2,Not Available,0
+2024-08-30,09:25:00,user456,Stopped coating process for batch #004,Not Available,0
+2024-08-30,09:30:00,user456,Logged out of the system,Not Available,0
+2024-08-31,08:00:00,user123,User logged into the system,Not Available,0
+2024-08-31,08:10:00,user123,Loaded recipe for batch #005,Not Available,0
+2024-08-31,08:16:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-08-31,08:24:00,user123,Verified calibration of scales,Not Available,0
+2024-08-31,08:33:00,user123,Started coating process for batch #005,Not Available,0
+2024-08-31,08:40:00,user123,Adjusted inlet air temperature from 148.7 to 150.2,Not Available,0
+2024-08-31,08:48:00,user123,Adjusted exhaust air temperature from 45.0 to 43.6,Not Available,0
+2024-08-31,08:56:00,user123,Adjusted atomization air pressure from 1.9 to 2.8,Not Available,0
+2024-08-31,09:02:00,user123,Adjusted spray rate from 9.3 to 9.2,Not Available,0
+2024-08-31,09:09:00,user123,Adjusted inlet air temperature from 149.9 to 149.0,Not Available,0
+2024-08-31,09:18:00,user123,Stopped coating process for batch #005,Not Available,0
+2024-08-31,09:23:00,user123,Logged out of the system,Not Available,0
+2024-09-01,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-01,08:09:00,user456,Loaded recipe for batch #006,Not Available,0
+2024-09-01,08:17:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-01,08:24:00,user456,Verified calibration of scales,Not Available,0
+2024-09-01,08:00:00,user456,Resolved alarm: Low atomization pressure,Not Available,1
+2024-09-01,08:01:00,user456,Acknowledged alarm: Low atomization pressure,Not Available,1
+2024-09-01,08:33:00,user456,Started coating process for batch #006,Not Available,0
+2024-09-01,08:43:00,user456,Adjusted drum speed from 12.6 to 11.1,Not Available,0
+2024-09-01,08:49:00,user456,Adjusted spray rate from 13.6 to 15.6,Not Available,0
+2024-09-01,08:59:00,user456,Adjusted inlet air temperature from 145.6 to 145.1,Not Available,0
+2024-09-01,09:05:00,user456,Adjusted inlet air temperature from 151.4 to 153.1,Not Available,0
+2024-09-01,09:10:00,user456,Stopped coating process for batch #006,Not Available,0
+2024-09-01,09:15:00,user456,Logged out of the system,Not Available,0
+2024-09-02,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-02,08:09:00,user456,Loaded recipe for batch #007,Not Available,0
+2024-09-02,08:19:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-02,08:27:00,user456,Verified calibration of scales,Not Available,0
+2024-09-02,08:37:00,user456,Started coating process for batch #007,Not Available,0
+2024-09-02,08:45:00,user456,Adjusted drum speed from 14.3 to 12.8,Not Available,0
+2024-09-02,08:53:00,user456,Adjusted drum speed from 14.1 to 13.7,Not Available,0
+2024-09-02,09:00:00,user456,Adjusted inlet air temperature from 151.8 to 150.3,Not Available,0
+2024-09-02,09:07:00,user456,Adjusted atomization air pressure from 2.0 to 2.6,Not Available,0
+2024-09-02,09:17:00,user456,Adjusted inlet air temperature from 154.2 to 155.8,Not Available,0
+2024-09-02,09:27:00,user456,Adjusted spray rate from 14.5 to 15.1,Not Available,0
+2024-09-02,09:36:00,user456,Stopped coating process for batch #007,Not Available,0
+2024-09-02,09:41:00,user456,Logged out of the system,Not Available,0
+2024-09-03,08:00:00,user123,User logged into the system,Not Available,0
+2024-09-03,08:10:00,user123,Loaded recipe for batch #008,Not Available,0
+2024-09-03,08:19:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-09-03,08:25:00,user123,Verified calibration of scales,Not Available,0
+2024-09-03,08:00:00,user123,Resolved alarm: High spray rate,Not Available,1
+2024-09-03,08:01:00,user123,Acknowledged alarm: High spray rate,Not Available,1
+2024-09-03,08:34:00,user123,Started coating process for batch #008,Not Available,0
+2024-09-03,08:43:00,user123,Adjusted atomization air pressure from 1.9 to 0.9,Not Available,0
+2024-09-03,08:53:00,user123,Adjusted exhaust air temperature from 46.5 to 44.8,Not Available,0
+2024-09-03,08:59:00,user123,Adjusted atomization air pressure from 2.1 to 3.0,Not Available,0
+2024-09-03,09:08:00,user123,Stopped coating process for batch #008,Not Available,0
+2024-09-03,09:13:00,user123,Logged out of the system,Not Available,0
+2024-09-04,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-04,08:06:00,user789,Loaded recipe for batch #009,Not Available,0
+2024-09-04,08:12:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-04,08:18:00,user789,Verified calibration of scales,Not Available,0
+2024-09-04,08:28:00,user789,Started coating process for batch #009,Not Available,0
+2024-09-04,08:36:00,user789,Adjusted atomization air pressure from 1.9 to 3.1,Not Available,0
+2024-09-04,08:45:00,user789,Adjusted inlet air temperature from 153.6 to 154.8,Not Available,0
+2024-09-04,08:50:00,user789,Adjusted spray rate from 11.1 to 11.5,Not Available,0
+2024-09-04,08:58:00,user789,Adjusted exhaust air temperature from 43.7 to 43.1,Not Available,0
+2024-09-04,09:04:00,user789,Stopped coating process for batch #009,Not Available,0
+2024-09-04,09:09:00,user789,Logged out of the system,Not Available,0
+2024-09-05,08:00:00,user123,User logged into the system,Not Available,0
+2024-09-05,08:06:00,user123,Loaded recipe for batch #010,Not Available,0
+2024-09-05,08:15:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-09-05,08:24:00,user123,Verified calibration of scales,Not Available,0
+2024-09-05,08:30:00,user123,Started coating process for batch #010,Not Available,0
+2024-09-05,08:39:00,user123,Adjusted inlet air temperature from 150.3 to 152.2,Not Available,0
+2024-09-05,08:44:00,user123,Adjusted exhaust air temperature from 45.1 to 44.4,Not Available,0
+2024-09-05,08:54:00,user123,Adjusted drum speed from 15.4 to 15.8,Not Available,0
+2024-09-05,09:01:00,user123,Adjusted drum speed from 16.0 to 17.4,Not Available,0
+2024-09-05,09:07:00,user123,Adjusted spray rate from 9.9 to 10.3,Not Available,0
+2024-09-05,09:17:00,user123,Stopped coating process for batch #010,Not Available,0
+2024-09-05,09:22:00,user123,Logged out of the system,Not Available,0
+2024-09-06,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-06,08:08:00,user456,Loaded recipe for batch #011,Not Available,0
+2024-09-06,08:16:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-06,08:26:00,user456,Verified calibration of scales,Not Available,0
+2024-09-06,08:36:00,user456,Started coating process for batch #011,Not Available,0
+2024-09-06,08:46:00,user456,Adjusted drum speed from 15.2 to 13.2,Not Available,0
+2024-09-06,08:51:00,user456,Adjusted exhaust air temperature from 43.7 to 44.3,Not Available,0
+2024-09-06,09:00:00,user456,Adjusted drum speed from 19.0 to 17.5,Not Available,0
+2024-09-06,09:05:00,user456,Stopped coating process for batch #011,Not Available,0
+2024-09-06,09:10:00,user456,Logged out of the system,Not Available,0
+2024-09-07,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-07,08:05:00,user456,Loaded recipe for batch #012,Not Available,0
+2024-09-07,08:15:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-07,08:21:00,user456,Verified calibration of scales,Not Available,0
+2024-09-07,08:27:00,user456,Started coating process for batch #012,Not Available,0
+2024-09-07,08:33:00,user456,Adjusted inlet air temperature from 152.3 to 152.5,Not Available,0
+2024-09-07,08:43:00,user456,Adjusted atomization air pressure from 2.0 to 1.2,Not Available,0
+2024-09-07,08:52:00,user456,Adjusted spray rate from 11.4 to 10.6,Not Available,0
+2024-09-07,08:58:00,user456,Adjusted drum speed from 17.4 to 17.4,Not Available,0
+2024-09-07,09:08:00,user456,Adjusted inlet air temperature from 154.9 to 155.6,Not Available,0
+2024-09-07,09:17:00,user456,Stopped coating process for batch #012,Not Available,0
+2024-09-07,09:22:00,user456,Logged out of the system,Not Available,0
+2024-09-08,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-08,08:09:00,user789,Loaded recipe for batch #013,Not Available,0
+2024-09-08,08:15:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-08,08:21:00,user789,Verified calibration of scales,Not Available,0
+2024-09-08,08:28:00,user789,Started coating process for batch #013,Not Available,0
+2024-09-08,08:36:00,user789,Adjusted drum speed from 13.7 to 13.5,Not Available,0
+2024-09-08,08:45:00,user789,Adjusted atomization air pressure from 2.1 to 3.6,Not Available,0
+2024-09-08,08:53:00,user789,Adjusted spray rate from 13.7 to 13.7,Not Available,0
+2024-09-08,08:00:00,user789,Logged out of the system,Not Available,1
+2024-09-08,08:05:00,user789,Stopped coating process for batch #013,Not Available,1
+2024-09-09,08:00:00,user123,User logged into the system,Not Available,0
+2024-09-09,08:08:00,user123,Loaded recipe for batch #014,Not Available,0
+2024-09-09,08:16:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-09-09,08:24:00,user123,Verified calibration of scales,Not Available,0
+2024-09-09,08:32:00,user123,Started coating process for batch #014,Not Available,0
+2024-09-09,08:39:00,user123,Adjusted exhaust air temperature from 46.3 to 45.3,Not Available,0
+2024-09-09,08:47:00,user123,Adjusted inlet air temperature from 153.5 to 155.0,Not Available,0
+2024-09-09,08:52:00,user123,Adjusted atomization air pressure from 1.9 to 2.0,Not Available,0
+2024-09-09,08:59:00,user123,Adjusted inlet air temperature from 149.6 to 149.1,Not Available,0
+2024-09-09,09:06:00,user123,Stopped coating process for batch #014,Not Available,0
+2024-09-09,09:11:00,user123,Logged out of the system,Not Available,0
+2024-09-10,08:00:00,user123,User logged into the system,Not Available,0
+2024-09-10,08:08:00,user123,Loaded recipe for batch #015,Not Available,0
+2024-09-10,08:15:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-09-10,08:24:00,user123,Verified calibration of scales,Not Available,0
+2024-09-10,08:33:00,user123,Started coating process for batch #015,Not Available,0
+2024-09-10,08:39:00,user123,Adjusted drum speed from 14.6 to 14.4,Not Available,0
+2024-09-10,08:47:00,user123,Adjusted atomization air pressure from 2.0 to 1.2,Not Available,0
+2024-09-10,08:52:00,user123,Adjusted drum speed from 18.8 to 19.7,Not Available,0
+2024-09-10,08:58:00,user123,Adjusted exhaust air temperature from 43.2 to 42.7,Not Available,0
+2024-09-10,09:05:00,user123,Adjusted spray rate from 13.1 to 13.8,Not Available,0
+2024-09-10,09:13:00,user123,Adjusted spray rate from 9.4 to 8.8,Not Available,0
+2024-09-10,09:19:00,user123,Stopped coating process for batch #015,Not Available,0
+2024-09-10,09:24:00,user123,Logged out of the system,Not Available,0
+2024-09-11,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-11,08:10:00,user456,Loaded recipe for batch #016,Not Available,0
+2024-09-11,08:19:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-11,08:27:00,user456,Verified calibration of scales,Not Available,0
+2024-09-11,08:32:00,user456,Started coating process for batch #016,Not Available,0
+2024-09-11,08:37:00,user456,Adjusted exhaust air temperature from 46.4 to 48.3,Not Available,0
+2024-09-11,08:00:00,user123,Deleted batch#016,Not Available,1
+2024-09-12,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-12,08:05:00,user789,Loaded recipe for batch #017,Not Available,0
+2024-09-12,08:13:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-12,08:23:00,user789,Verified calibration of scales,Not Available,0
+2024-09-12,08:32:00,user789,Started coating process for batch #017,Not Available,0
+2024-09-12,08:00:00,user789,Changed coating solution to type B,Not Available,1
+2024-09-12,08:05:00,user789,Changed coating solution to type B,Not Available,1
+2024-09-12,08:47:00,user789,Adjusted drum speed from 16.5 to 15.1,Not Available,0
+2024-09-12,08:57:00,user789,Adjusted inlet air temperature from 150.3 to 150.2,Not Available,0
+2024-09-12,09:02:00,user789,Adjusted drum speed from 16.3 to 15.9,Not Available,0
+2024-09-12,09:09:00,user789,Stopped coating process for batch #017,Not Available,0
+2024-09-12,09:14:00,user789,Logged out of the system,Not Available,0
+2024-09-13,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-13,08:10:00,user456,Loaded recipe for batch #018,Not Available,0
+2024-09-13,08:17:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-13,08:22:00,user456,Verified calibration of scales,Not Available,0
+2024-09-13,08:32:00,user456,Started coating process for batch #018,Not Available,0
+2024-09-13,08:41:00,user456,Adjusted spray rate from 14.1 to 12.9,Not Available,0
+2024-09-13,08:50:00,user456,Adjusted exhaust air temperature from 45.4 to 43.8,Not Available,0
+2024-09-13,08:59:00,user456,Adjusted spray rate from 8.8 to 8.8,Not Available,0
+2024-09-13,09:08:00,user456,Stopped coating process for batch #018,Not Available,0
+2024-09-13,09:13:00,user456,Logged out of the system,Not Available,0
+2024-09-14,08:00:00,user123,User logged into the system,Not Available,0
+2024-09-14,08:06:00,user123,Loaded recipe for batch #019,Not Available,0
+2024-09-14,08:13:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-09-14,08:19:00,user123,Verified calibration of scales,Not Available,0
+2024-09-14,08:29:00,user123,Started coating process for batch #019,Not Available,0
+2024-09-14,08:37:00,user123,Adjusted drum speed from 14.7 to 14.4,Not Available,0
+2024-09-14,08:45:00,user123,Adjusted atomization air pressure from 2.2 to 3.5,Not Available,0
+2024-09-14,08:50:00,user123,Adjusted spray rate from 14.3 to 15.6,Not Available,0
+2024-09-14,08:56:00,user123,Adjusted spray rate from 11.5 to 10.2,Not Available,0
+2024-09-14,09:04:00,user123,Adjusted exhaust air temperature from 45.4 to 43.6,Not Available,0
+2024-09-14,08:00:00,user123,Logged out of the system,Not Available,1
+2024-09-14,08:05:00,user123,Stopped coating process for batch #019,Not Available,1
+2024-09-15,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-15,08:06:00,user789,Loaded recipe for batch #020,Not Available,0
+2024-09-15,08:11:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-15,08:16:00,user789,Verified calibration of scales,Not Available,0
+2024-09-15,08:22:00,user789,Started coating process for batch #020,Not Available,0
+2024-09-15,08:31:00,user789,Adjusted exhaust air temperature from 43.3 to 43.4,Not Available,0
+2024-09-15,08:40:00,user789,Adjusted atomization air pressure from 1.9 to 1.8,Not Available,0
+2024-09-15,08:47:00,user789,Adjusted atomization air pressure from 2.1 to 3.4,Not Available,0
+2024-09-15,08:55:00,user789,Adjusted atomization air pressure from 2.0 to 2.0,Not Available,0
+2024-09-15,09:05:00,user789,Stopped coating process for batch #020,Not Available,0
+2024-09-15,09:10:00,user789,Logged out of the system,Not Available,0
+2024-09-16,08:00:00,user123,User logged into the system,Not Available,0
+2024-09-16,08:08:00,user123,Loaded recipe for batch #021,Not Available,0
+2024-09-16,08:14:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-09-16,08:19:00,user123,Verified calibration of scales,Not Available,0
+2024-09-16,08:25:00,user123,Started coating process for batch #021,Not Available,0
+2024-09-16,08:35:00,user123,Adjusted exhaust air temperature from 45.9 to 46.7,Not Available,0
+2024-09-16,08:42:00,user123,Adjusted spray rate from 8.9 to 9.8,Not Available,0
+2024-09-16,08:50:00,user123,Adjusted inlet air temperature from 151.8 to 150.5,Not Available,0
+2024-09-16,08:58:00,user123,Adjusted atomization air pressure from 2.2 to 0.4,Not Available,0
+2024-09-16,09:08:00,user123,Stopped coating process for batch #021,Not Available,0
+2024-09-16,09:13:00,user123,Logged out of the system,Not Available,0
+2024-09-17,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-17,08:07:00,user789,Loaded recipe for batch #022,Not Available,0
+2024-09-17,08:12:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-17,08:20:00,user789,Verified calibration of scales,Not Available,0
+2024-09-17,08:00:00,user789,Resolved alarm: High drum speed,Not Available,1
+2024-09-17,08:01:00,user789,Acknowledged alarm: High drum speed,Not Available,1
+2024-09-17,08:41:00,user789,Started coating process for batch #022,Not Available,0
+2024-09-17,08:49:00,user789,Adjusted spray rate from 8.5 to 6.8,Not Available,0
+2024-09-17,08:57:00,user789,Adjusted spray rate from 13.1 to 11.4,Not Available,0
+2024-09-17,09:03:00,user789,Adjusted exhaust air temperature from 46.4 to 45.0,Not Available,0
+2024-09-17,09:10:00,user789,Stopped coating process for batch #022,Not Available,0
+2024-09-17,09:15:00,user789,Logged out of the system,Not Available,0
+2024-09-18,08:00:00,user123,User logged into the system,Not Available,0
+2024-09-18,08:10:00,user123,Loaded recipe for batch #023,Not Available,0
+2024-09-18,08:16:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-09-18,08:23:00,user123,Verified calibration of scales,Not Available,0
+2024-09-18,08:30:00,user123,Started coating process for batch #023,Not Available,0
+2024-09-18,08:36:00,user123,Adjusted drum speed from 15.8 to 17.3,Not Available,0
+2024-09-18,08:42:00,user123,Adjusted atomization air pressure from 2.0 to 1.4,Not Available,0
+2024-09-18,08:51:00,user123,Adjusted exhaust air temperature from 44.8 to 46.0,Not Available,0
+2024-09-18,08:57:00,user123,Stopped coating process for batch #023,Not Available,0
+2024-09-18,09:02:00,user123,Logged out of the system,Not Available,0
+2024-09-19,08:00:00,user123,User logged into the system,Not Available,0
+2024-09-19,08:09:00,user123,Loaded recipe for batch #024,Not Available,0
+2024-09-19,08:19:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-09-19,08:26:00,user123,Verified calibration of scales,Not Available,0
+2024-09-19,08:34:00,user123,Started coating process for batch #024,Not Available,0
+2024-09-19,08:42:00,user123,Adjusted atomization air pressure from 2.0 to 1.3,Not Available,0
+2024-09-19,08:50:00,user123,Adjusted atomization air pressure from 1.8 to 1.8,Not Available,0
+2024-09-19,08:58:00,user123,Adjusted atomization air pressure from 2.0 to 2.6,Not Available,0
+2024-09-19,09:06:00,user123,Adjusted exhaust air temperature from 42.3 to 42.7,Not Available,0
+2024-09-19,09:13:00,user123,Adjusted exhaust air temperature from 45.9 to 47.4,Not Available,0
+2024-09-19,08:00:00,user123,Logged out of the system,Not Available,1
+2024-09-19,08:05:00,user123,Stopped coating process for batch #024,Not Available,1
+2024-09-20,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-20,08:05:00,user789,Loaded recipe for batch #025,Not Available,0
+2024-09-20,08:10:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-20,08:19:00,user789,Verified calibration of scales,Not Available,0
+2024-09-20,08:29:00,user789,Started coating process for batch #025,Not Available,0
+2024-09-20,08:00:00,user789,Changed coating solution to type C,Not Available,1
+2024-09-20,08:05:00,user789,Changed coating solution to type A,Not Available,1
+2024-09-20,08:51:00,user789,Adjusted spray rate from 10.8 to 10.2,Not Available,0
+2024-09-20,08:59:00,user789,Adjusted exhaust air temperature from 43.4 to 42.1,Not Available,0
+2024-09-20,09:06:00,user789,Adjusted atomization air pressure from 1.8 to -0.2,Not Available,0
+2024-09-20,09:15:00,user789,Adjusted drum speed from 13.9 to 12.1,Not Available,0
+2024-09-20,09:21:00,user789,Adjusted spray rate from 14.5 to 15.5,Not Available,0
+2024-09-20,09:27:00,user789,Adjusted atomization air pressure from 2.0 to 2.6,Not Available,0
+2024-09-20,09:33:00,user789,Stopped coating process for batch #025,Not Available,0
+2024-09-20,09:38:00,user789,Logged out of the system,Not Available,0
+2024-09-21,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-21,08:05:00,user789,Loaded recipe for batch #026,Not Available,0
+2024-09-21,08:15:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-21,08:22:00,user789,Verified calibration of scales,Not Available,0
+2024-09-21,08:31:00,user789,Started coating process for batch #026,Not Available,0
+2024-09-21,08:41:00,user789,Adjusted exhaust air temperature from 45.2 to 46.7,Not Available,0
+2024-09-21,08:50:00,user789,Adjusted inlet air temperature from 149.2 to 150.9,Not Available,0
+2024-09-21,09:00:00,user789,Adjusted spray rate from 10.0 to 8.7,Not Available,0
+2024-09-21,09:08:00,user789,Stopped coating process for batch #026,Not Available,0
+2024-09-21,09:13:00,user789,Logged out of the system,Not Available,0
+2024-09-22,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-22,08:07:00,user789,Loaded recipe for batch #027,Not Available,0
+2024-09-22,08:16:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-22,08:21:00,user789,Verified calibration of scales,Not Available,0
+2024-09-22,08:28:00,user789,Started coating process for batch #027,Not Available,0
+2024-09-22,08:00:00,user789,Changed coating solution to type B,Not Available,1
+2024-09-22,08:05:00,user789,Changed coating solution to type C,Not Available,1
+2024-09-22,08:48:00,user789,Adjusted exhaust air temperature from 42.7 to 41.8,Not Available,0
+2024-09-22,08:56:00,user789,Adjusted inlet air temperature from 147.0 to 148.5,Not Available,0
+2024-09-22,09:04:00,user789,Adjusted spray rate from 10.3 to 9.2,Not Available,0
+2024-09-22,09:11:00,user789,Adjusted atomization air pressure from 1.8 to 3.7,Not Available,0
+2024-09-22,09:16:00,user789,Stopped coating process for batch #027,Not Available,0
+2024-09-22,09:21:00,user789,Logged out of the system,Not Available,0
+2024-09-23,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-23,08:10:00,user789,Loaded recipe for batch #028,Not Available,0
+2024-09-23,08:19:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-23,08:26:00,user789,Verified calibration of scales,Not Available,0
+2024-09-23,08:32:00,user789,Started coating process for batch #028,Not Available,0
+2024-09-23,08:38:00,user789,Adjusted exhaust air temperature from 46.7 to 47.1,Not Available,0
+2024-09-23,08:43:00,user789,Adjusted spray rate from 14.9 to 13.7,Not Available,0
+2024-09-23,08:52:00,user789,Adjusted spray rate from 11.6 to 10.4,Not Available,0
+2024-09-23,08:59:00,user789,Stopped coating process for batch #028,Not Available,0
+2024-09-23,09:04:00,user789,Logged out of the system,Not Available,0
+2024-09-24,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-24,08:10:00,user456,Loaded recipe for batch #029,Not Available,0
+2024-09-24,08:20:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-24,08:27:00,user456,Verified calibration of scales,Not Available,0
+2024-09-24,08:33:00,user456,Started coating process for batch #029,Not Available,0
+2024-09-24,08:41:00,user456,Adjusted atomization air pressure from 2.2 to 2.7,Not Available,0
+2024-09-24,08:46:00,user456,Adjusted exhaust air temperature from 46.4 to 47.8,Not Available,0
+2024-09-24,08:54:00,user456,Adjusted spray rate from 10.1 to 9.7,Not Available,0
+2024-09-24,08:59:00,user456,Adjusted drum speed from 17.1 to 18.8,Not Available,0
+2024-09-24,09:04:00,user456,Adjusted exhaust air temperature from 45.9 to 45.4,Not Available,0
+2024-09-24,09:12:00,user456,Stopped coating process for batch #029,Not Available,0
+2024-09-24,09:17:00,user456,Logged out of the system,Not Available,0
+2024-09-25,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-25,08:08:00,user456,Loaded recipe for batch #030,Not Available,0
+2024-09-25,08:13:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-25,08:18:00,user456,Verified calibration of scales,Not Available,0
+2024-09-25,08:24:00,user456,Started coating process for batch #030,Not Available,0
+2024-09-25,08:33:00,user456,Adjusted drum speed from 12.8 to 12.4,Not Available,0
+2024-09-25,08:39:00,user456,Adjusted atomization air pressure from 1.9 to 2.2,Not Available,0
+2024-09-25,08:48:00,user456,Adjusted inlet air temperature from 148.9 to 149.8,Not Available,0
+2024-09-25,08:58:00,user456,Adjusted inlet air temperature from 150.0 to 151.4,Not Available,0
+2024-09-25,09:06:00,user456,Stopped coating process for batch #030,Not Available,0
+2024-09-25,09:11:00,user456,Logged out of the system,Not Available,0
+2024-09-26,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-26,08:06:00,user789,Loaded recipe for batch #031,Not Available,0
+2024-09-26,08:14:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-26,08:22:00,user789,Verified calibration of scales,Not Available,0
+2024-09-26,08:28:00,user789,Started coating process for batch #031,Not Available,0
+2024-09-26,08:33:00,user789,Adjusted inlet air temperature from 148.0 to 146.4,Not Available,0
+2024-09-26,08:38:00,user789,Adjusted exhaust air temperature from 42.2 to 43.2,Not Available,0
+2024-09-26,08:43:00,user789,Adjusted inlet air temperature from 147.4 to 148.9,Not Available,0
+2024-09-26,08:50:00,user789,Adjusted exhaust air temperature from 43.8 to 45.2,Not Available,0
+2024-09-26,08:55:00,user789,Adjusted inlet air temperature from 151.4 to 149.6,Not Available,0
+2024-09-26,09:05:00,user789,Stopped coating process for batch #031,Not Available,0
+2024-09-26,09:10:00,user789,Logged out of the system,Not Available,0
+2024-09-27,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-27,08:06:00,user456,Loaded recipe for batch #032,Not Available,0
+2024-09-27,08:16:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-27,08:24:00,user456,Verified calibration of scales,Not Available,0
+2024-09-27,08:30:00,user456,Started coating process for batch #032,Not Available,0
+2024-09-27,08:36:00,user456,Adjusted exhaust air temperature from 43.0 to 41.3,Not Available,0
+2024-09-27,08:41:00,user456,Adjusted inlet air temperature from 151.8 to 150.3,Not Available,0
+2024-09-27,08:47:00,user456,Adjusted drum speed from 18.3 to 18.0,Not Available,0
+2024-09-27,08:53:00,user456,Adjusted atomization air pressure from 1.9 to 3.2,Not Available,0
+2024-09-27,09:02:00,user456,Adjusted exhaust air temperature from 46.2 to 48.2,Not Available,0
+2024-09-27,09:12:00,user456,Stopped coating process for batch #032,Not Available,0
+2024-09-27,09:17:00,user456,Logged out of the system,Not Available,0
+2024-09-28,08:00:00,user789,User logged into the system,Not Available,0
+2024-09-28,08:08:00,user789,Loaded recipe for batch #033,Not Available,0
+2024-09-28,08:17:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-09-28,08:24:00,user789,Verified calibration of scales,Not Available,0
+2024-09-28,08:33:00,user789,Started coating process for batch #033,Not Available,0
+2024-09-28,08:39:00,user789,Adjusted exhaust air temperature from 44.7 to 45.1,Not Available,0
+2024-09-28,08:47:00,user789,Adjusted drum speed from 14.7 to 13.5,Not Available,0
+2024-09-28,08:55:00,user789,Adjusted drum speed from 17.5 to 16.5,Not Available,0
+2024-09-28,09:00:00,user789,Stopped coating process for batch #033,Not Available,0
+2024-09-28,09:05:00,user789,Logged out of the system,Not Available,0
+2024-09-29,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-29,08:06:00,user456,Loaded recipe for batch #034,Not Available,0
+2024-09-29,08:11:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-29,08:16:00,user456,Verified calibration of scales,Not Available,0
+2024-09-29,08:23:00,user456,Started coating process for batch #034,Not Available,0
+2024-09-29,08:32:00,user456,Adjusted inlet air temperature from 149.9 to 149.3,Not Available,0
+2024-09-29,08:41:00,user456,Adjusted inlet air temperature from 146.3 to 147.9,Not Available,0
+2024-09-29,08:48:00,user456,Adjusted spray rate from 9.2 to 10.7,Not Available,0
+2024-09-29,08:53:00,user456,Adjusted atomization air pressure from 2.2 to 3.7,Not Available,0
+2024-09-29,09:00:00,user456,Adjusted spray rate from 10.4 to 9.8,Not Available,0
+2024-09-29,09:10:00,user456,Adjusted drum speed from 15.8 to 15.0,Not Available,0
+2024-09-29,09:15:00,user456,Stopped coating process for batch #034,Not Available,0
+2024-09-29,09:20:00,user456,Logged out of the system,Not Available,0
+2024-09-30,08:00:00,user456,User logged into the system,Not Available,0
+2024-09-30,08:09:00,user456,Loaded recipe for batch #035,Not Available,0
+2024-09-30,08:14:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-09-30,08:19:00,user456,Verified calibration of scales,Not Available,0
+2024-09-30,08:29:00,user456,Started coating process for batch #035,Not Available,0
+2024-09-30,08:39:00,user456,Adjusted spray rate from 9.4 to 7.5,Not Available,0
+2024-09-30,08:48:00,user456,Adjusted drum speed from 17.2 to 16.2,Not Available,0
+2024-09-30,08:58:00,user456,Adjusted atomization air pressure from 2.2 to 4.1,Not Available,0
+2024-09-30,09:04:00,user456,Adjusted spray rate from 13.0 to 12.8,Not Available,0
+2024-09-30,09:12:00,user456,Stopped coating process for batch #035,Not Available,0
+2024-09-30,09:17:00,user456,Logged out of the system,Not Available,0
+2024-10-01,08:00:00,user789,User logged into the system,Not Available,0
+2024-10-01,08:07:00,user789,Loaded recipe for batch #036,Not Available,0
+2024-10-01,08:13:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-10-01,08:18:00,user789,Verified calibration of scales,Not Available,0
+2024-10-01,08:28:00,user789,Started coating process for batch #036,Not Available,0
+2024-10-01,08:37:00,user789,Adjusted exhaust air temperature from 45.2 to 43.6,Not Available,0
+2024-10-01,08:42:00,user789,Adjusted atomization air pressure from 1.9 to 2.9,Not Available,0
+2024-10-01,08:49:00,user789,Adjusted exhaust air temperature from 42.3 to 43.2,Not Available,0
+2024-10-01,08:54:00,user789,Adjusted spray rate from 9.8 to 10.3,Not Available,0
+2024-10-01,09:00:00,user789,Stopped coating process for batch #036,Not Available,0
+2024-10-01,09:05:00,user789,Logged out of the system,Not Available,0
+2024-10-02,08:00:00,user789,User logged into the system,Not Available,0
+2024-10-02,08:07:00,user789,Loaded recipe for batch #037,Not Available,0
+2024-10-02,08:14:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-10-02,08:21:00,user789,Verified calibration of scales,Not Available,0
+2024-10-02,08:31:00,user789,Started coating process for batch #037,Not Available,0
+2024-10-02,08:00:00,user789,Changed coating solution to type A,Not Available,1
+2024-10-02,08:05:00,user789,Changed coating solution to type A,Not Available,1
+2024-10-02,08:52:00,user789,Adjusted spray rate from 9.0 to 7.2,Not Available,0
+2024-10-02,09:01:00,user789,Adjusted exhaust air temperature from 43.1 to 42.6,Not Available,0
+2024-10-02,09:09:00,user789,Adjusted inlet air temperature from 149.0 to 148.5,Not Available,0
+2024-10-02,09:19:00,user789,Adjusted drum speed from 17.7 to 19.1,Not Available,0
+2024-10-02,09:26:00,user789,Stopped coating process for batch #037,Not Available,0
+2024-10-02,09:31:00,user789,Logged out of the system,Not Available,0
+2024-10-03,08:00:00,user789,User logged into the system,Not Available,0
+2024-10-03,08:08:00,user789,Loaded recipe for batch #038,Not Available,0
+2024-10-03,08:13:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-10-03,08:22:00,user789,Verified calibration of scales,Not Available,0
+2024-10-03,08:29:00,user789,Started coating process for batch #038,Not Available,0
+2024-10-03,08:00:00,user789,Changed coating solution to type C,Not Available,1
+2024-10-03,08:05:00,user789,Changed coating solution to type B,Not Available,1
+2024-10-03,08:49:00,user789,Adjusted exhaust air temperature from 44.9 to 44.3,Not Available,0
+2024-10-03,08:58:00,user789,Adjusted drum speed from 18.3 to 19.4,Not Available,0
+2024-10-03,09:08:00,user789,Adjusted exhaust air temperature from 46.6 to 45.7,Not Available,0
+2024-10-03,09:16:00,user789,Adjusted atomization air pressure from 2.0 to 0.8,Not Available,0
+2024-10-03,09:22:00,user789,Adjusted spray rate from 13.4 to 11.5,Not Available,0
+2024-10-03,09:31:00,user789,Stopped coating process for batch #038,Not Available,0
+2024-10-03,09:36:00,user789,Logged out of the system,Not Available,0
+2024-10-04,08:00:00,user123,User logged into the system,Not Available,0
+2024-10-04,08:06:00,user123,Loaded recipe for batch #039,Not Available,0
+2024-10-04,08:14:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-10-04,08:21:00,user123,Verified calibration of scales,Not Available,0
+2024-10-04,08:27:00,user123,Started coating process for batch #039,Not Available,0
+2024-10-04,08:32:00,user123,Adjusted drum speed from 14.8 to 16.1,Not Available,0
+2024-10-04,08:39:00,user123,Adjusted inlet air temperature from 153.7 to 152.5,Not Available,0
+2024-10-04,08:48:00,user123,Adjusted spray rate from 12.5 to 12.0,Not Available,0
+2024-10-04,08:55:00,user123,Adjusted spray rate from 11.1 to 10.8,Not Available,0
+2024-10-04,09:02:00,user123,Adjusted spray rate from 12.6 to 10.6,Not Available,0
+2024-10-04,09:09:00,user123,Adjusted drum speed from 17.4 to 18.2,Not Available,0
+2024-10-04,09:14:00,user123,Stopped coating process for batch #039,Not Available,0
+2024-10-04,09:19:00,user123,Logged out of the system,Not Available,0
+2024-10-05,08:00:00,user789,User logged into the system,Not Available,0
+2024-10-05,08:10:00,user789,Loaded recipe for batch #040,Not Available,0
+2024-10-05,08:19:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-10-05,08:28:00,user789,Verified calibration of scales,Not Available,0
+2024-10-05,08:34:00,user789,Started coating process for batch #040,Not Available,0
+2024-10-05,08:40:00,user789,Adjusted inlet air temperature from 150.2 to 150.5,Not Available,0
+2024-10-05,08:00:00,user789,Deleted batch#040,Not Available,1
+2024-10-06,08:00:00,user123,User logged into the system,Not Available,0
+2024-10-06,08:07:00,user123,Loaded recipe for batch #041,Not Available,0
+2024-10-06,08:13:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-10-06,08:23:00,user123,Verified calibration of scales,Not Available,0
+2024-10-06,08:31:00,user123,Started coating process for batch #041,Not Available,0
+2024-10-06,08:40:00,user123,Adjusted atomization air pressure from 1.8 to 3.3,Not Available,0
+2024-10-06,08:50:00,user123,Adjusted inlet air temperature from 145.9 to 147.7,Not Available,0
+2024-10-06,08:58:00,user123,Adjusted atomization air pressure from 1.8 to 1.4,Not Available,0
+2024-10-06,08:00:00,user123,Logged out of the system,Not Available,1
+2024-10-06,08:05:00,user123,Stopped coating process for batch #041,Not Available,1
+2024-10-07,08:00:00,user123,User logged into the system,Not Available,0
+2024-10-07,08:09:00,user123,Loaded recipe for batch #042,Not Available,0
+2024-10-07,08:18:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-10-07,08:28:00,user123,Verified calibration of scales,Not Available,0
+2024-10-07,08:33:00,user123,Started coating process for batch #042,Not Available,0
+2024-10-07,08:43:00,user123,Adjusted inlet air temperature from 152.6 to 151.4,Not Available,0
+2024-10-07,08:52:00,user123,Adjusted drum speed from 15.8 to 17.1,Not Available,0
+2024-10-07,08:58:00,user123,Adjusted inlet air temperature from 151.3 to 152.5,Not Available,0
+2024-10-07,09:04:00,user123,Adjusted exhaust air temperature from 45.5 to 47.2,Not Available,0
+2024-10-07,09:14:00,user123,Adjusted drum speed from 15.9 to 15.5,Not Available,0
+2024-10-07,09:24:00,user123,Adjusted exhaust air temperature from 45.2 to 46.9,Not Available,0
+2024-10-07,09:31:00,user123,Stopped coating process for batch #042,Not Available,0
+2024-10-07,09:36:00,user123,Logged out of the system,Not Available,0
+2024-10-08,08:00:00,user789,User logged into the system,Not Available,0
+2024-10-08,08:09:00,user789,Loaded recipe for batch #043,Not Available,0
+2024-10-08,08:18:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-10-08,08:26:00,user789,Verified calibration of scales,Not Available,0
+2024-10-08,08:34:00,user789,Started coating process for batch #043,Not Available,0
+2024-10-08,08:40:00,user789,Adjusted inlet air temperature from 153.4 to 153.6,Not Available,0
+2024-10-08,08:47:00,user789,Adjusted drum speed from 13.5 to 12.6,Not Available,0
+2024-10-08,08:53:00,user789,Adjusted drum speed from 17.8 to 18.1,Not Available,0
+2024-10-08,09:02:00,user789,Adjusted exhaust air temperature from 44.0 to 45.8,Not Available,0
+2024-10-08,09:08:00,user789,Adjusted drum speed from 14.6 to 14.6,Not Available,0
+2024-10-08,09:15:00,user789,Adjusted spray rate from 13.5 to 14.1,Not Available,0
+2024-10-08,09:22:00,user789,Stopped coating process for batch #043,Not Available,0
+2024-10-08,09:27:00,user789,Logged out of the system,Not Available,0
+2024-10-09,08:00:00,user456,User logged into the system,Not Available,0
+2024-10-09,08:09:00,user456,Loaded recipe for batch #044,Not Available,0
+2024-10-09,08:15:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-10-09,08:25:00,user456,Verified calibration of scales,Not Available,0
+2024-10-09,08:31:00,user456,Started coating process for batch #044,Not Available,0
+2024-10-09,08:38:00,user456,Adjusted atomization air pressure from 2.0 to 0.1,Not Available,0
+2024-10-09,08:43:00,user456,Adjusted inlet air temperature from 146.2 to 146.4,Not Available,0
+2024-10-09,08:49:00,user456,Adjusted atomization air pressure from 2.0 to 3.7,Not Available,0
+2024-10-09,08:58:00,user456,Adjusted spray rate from 11.5 to 11.5,Not Available,0
+2024-10-09,08:00:00,user456,Logged out of the system,Not Available,1
+2024-10-09,08:05:00,user456,Stopped coating process for batch #044,Not Available,1
+2024-10-10,08:00:00,user456,User logged into the system,Not Available,0
+2024-10-10,08:06:00,user456,Loaded recipe for batch #045,Not Available,0
+2024-10-10,08:15:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-10-10,08:21:00,user456,Verified calibration of scales,Not Available,0
+2024-10-10,08:29:00,user456,Started coating process for batch #045,Not Available,0
+2024-10-10,08:36:00,user456,Adjusted exhaust air temperature from 44.4 to 45.1,Not Available,0
+2024-10-10,08:44:00,user456,Adjusted drum speed from 17.3 to 17.8,Not Available,0
+2024-10-10,08:53:00,user456,Adjusted spray rate from 10.3 to 11.3,Not Available,0
+2024-10-10,09:01:00,user456,Stopped coating process for batch #045,Not Available,0
+2024-10-10,09:06:00,user456,Logged out of the system,Not Available,0
+2024-10-11,08:00:00,user456,User logged into the system,Not Available,0
+2024-10-11,08:07:00,user456,Loaded recipe for batch #046,Not Available,0
+2024-10-11,08:17:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-10-11,08:23:00,user456,Verified calibration of scales,Not Available,0
+2024-10-11,08:28:00,user456,Started coating process for batch #046,Not Available,0
+2024-10-11,08:38:00,user456,Adjusted spray rate from 12.7 to 13.8,Not Available,0
+2024-10-11,08:48:00,user456,Adjusted drum speed from 15.6 to 16.1,Not Available,0
+2024-10-11,08:58:00,user456,Adjusted inlet air temperature from 151.4 to 151.2,Not Available,0
+2024-10-11,09:04:00,user456,Adjusted atomization air pressure from 2.1 to 0.9,Not Available,0
+2024-10-11,09:10:00,user456,Adjusted atomization air pressure from 2.0 to 1.1,Not Available,0
+2024-10-11,09:16:00,user456,Stopped coating process for batch #046,Not Available,0
+2024-10-11,09:21:00,user456,Logged out of the system,Not Available,0
+2024-10-12,08:00:00,user456,User logged into the system,Not Available,0
+2024-10-12,08:07:00,user456,Loaded recipe for batch #047,Not Available,0
+2024-10-12,08:15:00,user456,Initiated pre-operation equipment check,Not Available,0
+2024-10-12,08:20:00,user456,Verified calibration of scales,Not Available,0
+2024-10-12,08:28:00,user456,Started coating process for batch #047,Not Available,0
+2024-10-12,08:36:00,user456,Adjusted drum speed from 14.4 to 13.1,Not Available,0
+2024-10-12,08:45:00,user456,Adjusted inlet air temperature from 147.0 to 148.3,Not Available,0
+2024-10-12,08:51:00,user456,Adjusted exhaust air temperature from 44.8 to 44.0,Not Available,0
+2024-10-12,09:00:00,user456,Adjusted exhaust air temperature from 42.0 to 42.7,Not Available,0
+2024-10-12,09:07:00,user456,Adjusted atomization air pressure from 2.0 to 1.7,Not Available,0
+2024-10-12,09:14:00,user456,Adjusted inlet air temperature from 150.1 to 151.1,Not Available,0
+2024-10-12,09:22:00,user456,Stopped coating process for batch #047,Not Available,0
+2024-10-12,09:27:00,user456,Logged out of the system,Not Available,0
+2024-10-13,08:00:00,user789,User logged into the system,Not Available,0
+2024-10-13,08:06:00,user789,Loaded recipe for batch #048,Not Available,0
+2024-10-13,08:13:00,user789,Initiated pre-operation equipment check,Not Available,0
+2024-10-13,08:23:00,user789,Verified calibration of scales,Not Available,0
+2024-10-13,08:29:00,user789,Started coating process for batch #048,Not Available,0
+2024-10-13,08:37:00,user789,Adjusted exhaust air temperature from 43.6 to 45.0,Not Available,0
+2024-10-13,08:44:00,user789,Adjusted drum speed from 14.7 to 15.0,Not Available,0
+2024-10-13,08:53:00,user789,Adjusted atomization air pressure from 1.9 to 1.7,Not Available,0
+2024-10-13,09:01:00,user789,Adjusted spray rate from 13.9 to 15.3,Not Available,0
+2024-10-13,09:08:00,user789,Adjusted atomization air pressure from 1.9 to 1.0,Not Available,0
+2024-10-13,08:00:00,user789,Logged out of the system,Not Available,1
+2024-10-13,08:05:00,user789,Stopped coating process for batch #048,Not Available,1
+2024-10-14,08:00:00,user123,User logged into the system,Not Available,0
+2024-10-14,08:08:00,user123,Loaded recipe for batch #049,Not Available,0
+2024-10-14,08:16:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-10-14,08:26:00,user123,Verified calibration of scales,Not Available,0
+2024-10-14,08:33:00,user123,Started coating process for batch #049,Not Available,0
+2024-10-14,08:41:00,user123,Adjusted inlet air temperature from 147.4 to 145.5,Not Available,0
+2024-10-14,08:48:00,user123,Adjusted inlet air temperature from 152.2 to 152.4,Not Available,0
+2024-10-14,08:53:00,user123,Adjusted spray rate from 11.1 to 9.7,Not Available,0
+2024-10-14,09:01:00,user123,Stopped coating process for batch #049,Not Available,0
+2024-10-14,09:06:00,user123,Logged out of the system,Not Available,0
+2024-10-15,08:00:00,user123,User logged into the system,Not Available,0
+2024-10-15,08:06:00,user123,Loaded recipe for batch #050,Not Available,0
+2024-10-15,08:15:00,user123,Initiated pre-operation equipment check,Not Available,0
+2024-10-15,08:22:00,user123,Verified calibration of scales,Not Available,0
+2024-10-15,08:30:00,user123,Started coating process for batch #050,Not Available,0
+2024-10-15,08:39:00,user123,Adjusted inlet air temperature from 151.3 to 151.3,Not Available,0
+2024-10-15,08:45:00,user123,Adjusted exhaust air temperature from 46.6 to 45.6,Not Available,0
+2024-10-15,08:51:00,user123,Adjusted drum speed from 15.9 to 15.7,Not Available,0
+2024-10-15,08:58:00,user123,Stopped coating process for batch #050,Not Available,0
+2024-10-15,09:03:00,user123,Logged out of the system,Not Available,0
